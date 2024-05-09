@@ -6,6 +6,11 @@ The model was trained to classify 195 countries based on their flags.
 
 <img src="examples\example1.gif" alt="GIF" width="700"/>
 
+<img src="examples\example2.gif" alt="GIF" width="700"/>
+
+<img src="examples\example4.gif" alt="GIF" width="700"/>
+
+<img src="examples\example5.gif" alt="GIF" width="700"/>
 ## Requirements
 
 Before running the code, ensure you have the following dependencies installed:
