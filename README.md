@@ -5,7 +5,7 @@ This project shows how to perform flag classification using YOLOv8. In this repo
 The model was trained to classify 195 countries based on their flags.
 
 
-![Example GIF][examples/record001.mp4]
+![Example GIF][/examples/record001.mp4]
 
 ## Requirements
 
@@ -71,6 +71,7 @@ datasets/
 |   |-- ...
 |
 ```
+
 4. Run notebook to start training: `training_yolov8.ipynb`. Remember to change paths and set parametetrs for training.
 ```python
 model = YOLO("yolov8n-cls.pt")
@@ -81,29 +82,34 @@ model.train(data="datasets/", epochs=50)
 ![Val batch0][/runs/classify/val/val_batch0_labels.jpg]
 ![Val batch1][/runs/classify/val/val_batch1_labels.jpg]
 ![Val batch2][/runs/classify/val/val_batch2_labels.jpg]
-## License
 
-This project is licensed under the [MIT License](LICENSE).
 
 ## Usage application on [Geotastic](https://geotastic.net/highscore-hunt)
+
 1. Run the App:
 ```bash
 python ScreenCaptureApp.py
 ```
 ![App][examples/App1.png]
+
 2. Select the area where the flags will appear 
-![1][examples/Test2.png]
+![1][/examples/Test2.png]
+
 3. The script will output the predicted country based on the detected flag.
-![2][examples/Test3.png]
+![2][/examples/Test3.png]
+
 4. Enter the image refresh interval (in seconds). Default is 1 second.
-![3][examples/Test4.png]
+![3][/examples/Test4.png]
+
 5. Mark the predicted country on the map and click Finish Guess.
-![4][examples/Test5.png]
+![4][/examples/Test5.png]
+
 ## Examples
-![Angola][examples/Test3.png]
-![Papua New Guinea][examples/Test6.png]
-![Belize][examples/Test7.png]
 
+![Angola][/examples/Test3.png]
+![Papua New Guinea][/examples/Test6.png]
+![Belize][/examples/Test7.png]
 
+## License
 
-
+This project is licensed under the [MIT License](LICENSE).
