@@ -4,7 +4,7 @@ This project shows how to perform flag classification using YOLOv8. In this repo
 
 The model was trained to classify 195 countries based on their flags.
 
-<img src="examples\record001.mp4" alt="GIF" width="600"/>
+<img src="examples\record001.mp4" alt="GIF" width="800"/>
 
 ## Requirements
 
@@ -78,9 +78,9 @@ model.train(data="datasets/", epochs=50)
 ```
 
 5. Evaluate the trained model using `testing_yolov8.ipynb`.
-<img src="/runs/classify/val/val_batch0_labels.jpg" alt="Val batch0" width="500"/>
-<img src="/runs/classify/val/val_batch1_labels.jpg" alt="Val batch1" width="500"/>
-<img src="/runs/classify/val/val_batch2_labels.jpg" alt="Val batch2" width="500"/>
+<img src="/runs/classify/val/val_batch0_labels.jpg" alt="Val batch0" width="700"/>
+<img src="/runs/classify/val/val_batch1_labels.jpg" alt="Val batch1" width="700"/>
+<img src="/runs/classify/val/val_batch2_labels.jpg" alt="Val batch2" width="700"/>
 
 
 
@@ -90,25 +90,25 @@ model.train(data="datasets/", epochs=50)
 ```bash
 python ScreenCaptureApp.py
 ```
-<img src="examples/App1.png" alt="App" width="500"/>
+<img src="examples/App1.png" alt="App" width="700"/>
 
-2. Select the area where the flags will appear 
-<img src="examples/Test2.png" alt="1" width="500"/>
+2. Click `Start capture frame` and select the area where the flags will appear. Next press ENTER to confirm area.
+<img src="examples/Test2.png" alt="1" width="700"/>
 
-3. The script will output the predicted country based on the detected flag.
-<img src="examples/Test3.png" alt="2" width="500"/>
+3. The App will output the predicted country based on the detected flag.
+<img src="examples/Test3.png" alt="2" width="700"/>
 
 4. Enter the image refresh interval (in seconds). Default is 1 second.
-<img src="examples/Test4.png" alt="3" width="500"/>
+<img src="examples/Test4.png" alt="3" width="700"/>
 
 5. Mark the predicted country on the map and click Finish Guess.
-<img src="examples/Test5.png" alt="4" width="500"/>
+<img src="examples/Test5.png" alt="4" width="700"/>
 
 ## Examples
 
-<img src="examples/Test3.png" alt="Angola" width="500"/>
-<img src="examples/Test6.png" alt="Papua New Guinea" width="500"/>
-<img src="examples/Test7.png" alt="Belize" width="500"/>
+<img src="examples/Test3.png" alt="Angola" width="700"/>
+<img src="examples/Test6.png" alt="Papua New Guinea" width="700"/>
+<img src="examples/Test7.png" alt="Belize" width="700"/>
 
 
 ## License
