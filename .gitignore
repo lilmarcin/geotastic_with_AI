@@ -14,9 +14,7 @@
 ######################
 *.csv
 *.sql
-
 *.avi
-*.mp4
 *.gif
 /datasets
 /database
