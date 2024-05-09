@@ -4,7 +4,7 @@ This project shows how to perform flag classification using YOLOv8. In this repo
 
 The model was trained to classify 195 countries based on their flags.
 
-<img src="examples\record001.mp4" alt="GIF" width="800"/>
+<img src="examples\record002.mp4" alt="GIF" width="700"/>
 
 ## Requirements
 
