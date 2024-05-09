@@ -4,9 +4,8 @@ This project shows how to perform flag classification using YOLOv8. In this repo
 
 The model was trained to classify 195 countries based on their flags.
 
+<img src="examples\record001.mp4" alt="GIF" width="600"/>
 
-![Example GIF][\examples\record001.mp4]
-<img src="examples\record001.mp4" alt="Example gif" width="600"/>
 ## Requirements
 
 Before running the code, ensure you have the following dependencies installed:
@@ -91,25 +90,26 @@ model.train(data="datasets/", epochs=50)
 ```bash
 python ScreenCaptureApp.py
 ```
-![App][examples/App1.png]
+<img src="examples/App1.png" alt="App" width="500"/>
 
 2. Select the area where the flags will appear 
-![1][/examples/Test2.png]
+<img src="examples/Test2.png" alt="1" width="500"/>
 
 3. The script will output the predicted country based on the detected flag.
-![2][/examples/Test3.png]
+<img src="examples/Test3.png" alt="2" width="500"/>
 
 4. Enter the image refresh interval (in seconds). Default is 1 second.
-![3][/examples/Test4.png]
+<img src="examples/Test4.png" alt="3" width="500"/>
 
 5. Mark the predicted country on the map and click Finish Guess.
-![4][/examples/Test5.png]
+<img src="examples/Test5.png" alt="4" width="500"/>
 
 ## Examples
 
-![Angola][/examples/Test3.png]
-![Papua New Guinea][/examples/Test6.png]
-![Belize][/examples/Test7.png]
+<img src="examples/Test3.png" alt="Angola" width="500"/>
+<img src="examples/Test6.png" alt="Papua New Guinea" width="500"/>
+<img src="examples/Test7.png" alt="Belize" width="500"/>
+
 
 ## License
 
