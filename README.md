@@ -79,9 +79,10 @@ model.train(data="datasets/", epochs=50)
 ```
 
 5. Evaluate the trained model using `testing_yolov8.ipynb`.
-![Val batch0][/runs/classify/val/val_batch0_labels.jpg]
-![Val batch1][/runs/classify/val/val_batch1_labels.jpg]
-![Val batch2][/runs/classify/val/val_batch2_labels.jpg]
+<img src="/runs/classify/val/val_batch0_labels.jpg" alt="Val batch0" width="500"/>
+<img src="/runs/classify/val/val_batch1_labels.jpg" alt="Val batch1" width="500"/>
+<img src="/runs/classify/val/val_batch2_labels.jpg" alt="Val batch2" width="500"/>
+
 
 
 ## Usage application on [Geotastic](https://geotastic.net/highscore-hunt)
