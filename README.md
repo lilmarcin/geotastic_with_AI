@@ -2,7 +2,7 @@
 
 This project shows how to perform flag classification using YOLOv8. In this repository, we provide a pre-trained YOLOv8 model trained on a dataset of flags from different countries and then use the geotastic website to detect the flag and point the country on the world map.
 
-The model was trained to classify 195 countries based on their flags.
+The model was trained to classify 231 countries based on their flags.
 
 <img src="examples\example1.gif" alt="GIF" width="700"/>
 

@@ -22,3 +22,4 @@
 # YOLO model
 *.pt
 !yolov8n-cls.pt
+prepare-images.ipynb
