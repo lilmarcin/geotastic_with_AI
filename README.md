@@ -110,11 +110,14 @@ python ScreenCaptureApp.py
 5. Mark the predicted country on the map and click Finish Guess.
 <img src="examples/Test5.png" alt="4" width="700"/>
 
+6. Enjoy result!
+<img src="examples/Test5.png" alt="4" width="700"/>
 ## Examples
 
 <img src="examples/Test3.png" alt="Angola" width="700"/>
 <img src="examples/Test6.png" alt="Papua New Guinea" width="700"/>
 <img src="examples/Test7.png" alt="Belize" width="700"/>
+<img src="examples/Test8.png" alt="Wallis and Futune" width="700"/>
 
 
 ## License
