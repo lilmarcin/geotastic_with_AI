@@ -111,7 +111,7 @@ python ScreenCaptureApp.py
 <img src="examples/Test5.png" alt="4" width="700"/>
 
 6. Enjoy result!
-<img src="examples/Test5.png" alt="4" width="700"/>
+<img src="examples/Results.png" alt="4" width="700"/>
 ## Examples
 
 <img src="examples/Test3.png" alt="Angola" width="700"/>
