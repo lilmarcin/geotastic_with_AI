@@ -112,6 +112,7 @@ python ScreenCaptureApp.py
 
 6. Enjoy result!
 <img src="examples/Results.png" alt="4" width="700"/>
+
 ## Examples
 
 <img src="examples/Test3.png" alt="Angola" width="700"/>
