@@ -89,7 +89,6 @@ model.train(data="datasets/", epochs=50)
 <img src="/runs/classify/val/val_batch2_labels.jpg" alt="Val batch2" width="700"/>
 
 
-
 ## Usage application on [Geotastic](https://geotastic.net/highscore-hunt)
 
 1. Run the App:
